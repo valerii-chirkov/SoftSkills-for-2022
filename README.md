@@ -166,7 +166,15 @@ In contrast, poor communication skills lead to frequent misunderstanding and fru
 * [15 Excellent Habits](https://www.influencive.com/15-excellent-habits-to-improve-verbal-communication/) - 15 Excellent Habits to Improve Verbal Communication.
 * [9 Practical Ways](https://hr.berkeley.edu/9-practical-ways-improve-verbal-communication) - 9 Practical Ways to Improve Verbal Communication.
 * [11 Tips for 2021](https://connectedspeechpathology.com/blog/how-to-improve-communication-skills) - How to Improve Communication Skills: 11 Tips for 2021.
+* [Written And Verbal At Work](https://thebossmagazine.com/improve-written-verbal-communication/) - 7 Ways To Improve Your Written And Verbal Communication At Work.
 #### Non-Verbal Communication 
+* [10 Tips to Improve](https://www.verywellmind.com/top-nonverbal-communication-tips-2795400) - 10 Tips for Improving Your Nonverbal Communication.
+* [6 Ways to Improve](https://www.mentalhealthfirstaid.org/external/2018/06/6-ways-to-improve-your-non-verbal-communication-skills/) - 6 Ways to Improve Your Non-verbal Communication Skills
+* [Career Development Tips](https://www.glassdoor.com/blog/guide/nonverbal-communication-examples/?__cf_chl_jschl_tk__=pmd_Rxmfdv.bky8AAz_0qLVHyXkYKfunrCsi4csUyDRtvdM-1633028244-0-gqNtZGzNAlCjcnBszQel) - How to Improve Your Nonverbal Communication Skills.
+* [Techniques](https://smallbusiness.chron.com/techniques-improving-nonverbal-communication-skills-workplace-21411.html) - Techniques for Improving Your Nonverbal Communication Skills in the Workplace
+* [16 Best Ways](https://www.educba.com/improve-non-verbal-communication/) - 16 Best Ways To Improve Non Verbal Communication At Work.
+* [5 Steps to Improve](https://seekinghope.com/blog/non-verbal-communication/) - 5 Steps to Improve Your Non-Verbal Communication Skills.
+* [Definition and Examples](https://www.indeed.com/career-advice/career-development/nonverbal-communication-skills) - Nonverbal Communication Skills: Definition and Examples.
 #### Visual Communication 
 #### Written Communication 
 #### Active Listening
