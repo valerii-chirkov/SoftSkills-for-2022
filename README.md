@@ -150,6 +150,7 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
     - [Work-Life Balance](#Work-Life-Balance)
 - [License](#License)
 
+-----
 <!--start-->
 
 
