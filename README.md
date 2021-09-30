@@ -184,6 +184,7 @@ In contrast, poor communication skills lead to frequent misunderstanding and fru
 #### Tolerance
 
 [⬆ back to top](#Contents)
+
 -----
 
 ## Problem-Solving Skills
@@ -246,6 +247,7 @@ Strong leadership skills are also valuable for all job applicants and employees.
 #### Inspiring 
 
 [⬆ back to top](#Contents)
+
 -----
 
 ## Work Ethic Skills
@@ -280,6 +282,7 @@ Strong leadership skills are also valuable for all job applicants and employees.
 #### Trainable 
 
 [⬆ back to top](#Contents)
+
 -----
 
 ## Teamwork Skills
@@ -308,6 +311,7 @@ Working well with clients, colleagues, managers and other people in your workpla
 #### Social Skills
 
 [⬆ back to top](#Contents)
+
 -----
 
 ## Time Management Skills
@@ -337,6 +341,7 @@ Working well with clients, colleagues, managers and other people in your workpla
 #### Work-Life Balance
 
 [⬆ back to top](#Contents)
+
 -----
 
 <!--end-->
@@ -346,7 +351,3 @@ Working well with clients, colleagues, managers and other people in your workpla
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-
-
-
