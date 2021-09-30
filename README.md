@@ -17,6 +17,7 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 
 <!--start-->
 
+
 #### Communication Skills
 
 * [Verbal Communication](#Verbal-Communication)
@@ -45,6 +46,7 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 
 [⬆ back to top](#Contents)
 
+
 #### Problem-Solving Skills
 
 * [Analysis](#Analysis)
@@ -68,6 +70,7 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 * [Troubleshooting](#Troubleshooting)
 
 [⬆ back to top](#Contents)
+
 
 #### Leadership Skills
 
@@ -100,6 +103,7 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 
 [⬆ back to top](#Contents)
 
+
 #### Work Ethic Skills
 
 * [Attentive](#Attentive)
@@ -131,6 +135,7 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 
 [⬆ back to top](#Contents)
 
+
 #### Teamwork Skills
 
 * [Accept Feedback](#Accept-Feedback)
@@ -153,6 +158,7 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 * [Social Skills](#Social Skills)
 
 [⬆ back to top](#Contents)
+
 
 #### Time Management Skills
 
@@ -179,6 +185,7 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 * [Work-Life Balance](#Work-Life-Balance)
 
 [⬆ back to top](#Contents)
+
 
 <!--end-->
 
