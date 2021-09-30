@@ -1,8 +1,6 @@
 # soft-skills
 
-This page contains soft-skills that you may acquire to boost your level of communication/well-being/salary and etc.
-It is not only for developers but also for people who are engaged in the IT sphere.
-Feel free to contribute with helpful links, comments, articles, other skills and etc.
+Feel free to contribute.
 -----
 
 ##### Contents
