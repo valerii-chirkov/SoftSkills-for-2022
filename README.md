@@ -160,6 +160,12 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 In contrast, poor communication skills lead to frequent misunderstanding and frustration.*
 
 #### Verbal Communication
+* [10 Ways To Improve](https://www.indeed.com/career-advice/career-development/how-to-improve-verbal-communication-skills) - 10 Ways To Improve Verbal Communication Skills.
+* [7 Tips to Improve](https://www.callrail.com/blog/7-tips-to-improve-verbal-communication-skills/) - 7 Tips to Improve Verbal Communication Skills.
+* [How to Develop](https://virtualspeech.com/blog/verbal-communication-skills) - How to Develop Effective Verbal Communication Skills.
+* [15 Excellent Habits](https://www.influencive.com/15-excellent-habits-to-improve-verbal-communication/) - 15 Excellent Habits to Improve Verbal Communication.
+* [9 Practical Ways](https://hr.berkeley.edu/9-practical-ways-improve-verbal-communication) - 9 Practical Ways to Improve Verbal Communication.
+* [11 Tips for 2021](https://connectedspeechpathology.com/blog/how-to-improve-communication-skills) - How to Improve Communication Skills: 11 Tips for 2021.
 #### Non-Verbal Communication 
 #### Visual Communication 
 #### Written Communication 
