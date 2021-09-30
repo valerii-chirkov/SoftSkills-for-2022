@@ -17,7 +17,7 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 
 <!--start-->
 
-##### Communication Skills
+#### Communication Skills
 
 * [Verbal Communication](#Verbal-Communication)
 * [Non-Verbal Communication](#Non-Verbal-Communication)
@@ -43,9 +43,9 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 * [Sensitivity](#Sensitivity)
 * [Tolerance](#Tolerance)
 
-**[⬆ back to top](#Contents)
+[⬆ back to top](#Contents)
 
-##### Problem-Solving Skills
+#### Problem-Solving Skills
 
 * [Analysis](#Analysis)
 * [Artistic Sense](#Artistic-Sense)
@@ -67,9 +67,9 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 * [Reframing](#Reframing)
 * [Troubleshooting](#Troubleshooting)
 
-**[⬆ back to top](#Contents)
+[⬆ back to top](#Contents)
 
-##### Leadership Skills
+#### Leadership Skills
 
 * [People Management](#People-Management)
 * [Project Management](#Project-Management)
@@ -98,9 +98,9 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 * [Humility](#Humility)
 * [Inspiring](#Inspiring)
 
-**[⬆ back to top](#Contents)
+[⬆ back to top](#Contents)
 
-##### Work Ethic Skills
+#### Work Ethic Skills
 
 * [Attentive](#Attentive)
 * [Business Ethics](#Business-Ethics)
@@ -129,9 +129,9 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 * [Tolerance of Change and Uncertainty](#Tolerance-of-Change-and-Uncertainty)
 * [Trainable](#Trainable)
 
-**[⬆ back to top](#Contents)
+[⬆ back to top](#Contents)
 
-##### Teamwork Skills
+#### Teamwork Skills
 
 * [Accept Feedback](#Accept-Feedback)
 * [Collaborative](#Collaborative)
@@ -152,9 +152,9 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 * [Self-Awareness](#Self-Awareness)
 * [Social Skills](#Social Skills)
 
-**[⬆ back to top](#Contents)
+[⬆ back to top](#Contents)
 
-##### Time Management Skills
+#### Time Management Skills
 
 * [Acuity](#Acuity)
 * [Allocating Resources](#Allocating-Resources)
@@ -178,7 +178,7 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
 * [Time Awareness](#Time-Awareness)
 * [Work-Life Balance](#Work-Life-Balance)
 
-**[⬆ back to top](#Contents)
+[⬆ back to top](#Contents)
 
 <!--end-->
 
