@@ -212,6 +212,7 @@ In contrast, poor communication skills lead to frequent misunderstanding and fru
 #### Troubleshooting 
 
 [⬆ back to top](#Contents)
+
 -----
 
 ## Leadership Skills
