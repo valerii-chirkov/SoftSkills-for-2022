@@ -1,4 +1,4 @@
-# soft-skills
+# Soft Skills for Developers and Leaders
 
 Feel free to contribute.
 -----
