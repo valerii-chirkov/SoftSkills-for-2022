@@ -1,26 +1,21 @@
 # Soft Skills for Developers and Leaders
-
-Feel free to contribute.
 -----
+Here I collect all important soft skills for everyone who are engaged in the IT-sphere. 
+Feel free to **star** and **fork**.
 
-##### Contents
-
-* [Communication Skills](#Communication-Skills)
-  
-* [Problem-Solving Skills](#Problem-Solving-Skills)
-  
-* [Leadership Skills](#Leadership-Skills)
-  
-* [Work Ethic Skills](#Work-Ethic-Skills)
-  
-* [Teamwork Skills](#Teamwork-Skills)
-  
-* [Time Management Skills](#Time-Management-Skills)
-  
-
------
+Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/soft-skills/issues)
 
 ## Contents
+
+- [Communication Skills](#Communication-Skills)
+- [Problem-Solving Skills](#Problem-Solving-Skills)
+- [Leadership Skills](#Leadership-Skills)
+- [Work Ethic Skills](#Work-Ethic-Skills)
+- [Teamwork Skills](#Teamwork-Skills)
+- [Time Management Skills](#Time-Management-Skills)
+- [License](#License)
+
+<!--start-->
 
 ##### Communication Skills
 
@@ -48,7 +43,7 @@ Feel free to contribute.
 * [Sensitivity](#Sensitivity)
 * [Tolerance](#Tolerance)
 
-[(Back to the contents)](#Contents)
+**[⬆ back to top](#Contents)
 
 ##### Problem-Solving Skills
 
@@ -72,7 +67,7 @@ Feel free to contribute.
 * [Reframing](#Reframing)
 * [Troubleshooting](#Troubleshooting)
 
-[(Back to the contents)](#Contents)
+**[⬆ back to top](#Contents)
 
 ##### Leadership Skills
 
@@ -103,7 +98,7 @@ Feel free to contribute.
 * [Humility](#Humility)
 * [Inspiring](#Inspiring)
 
-[(Back to the contents)](#Contents)
+**[⬆ back to top](#Contents)
 
 ##### Work Ethic Skills
 
@@ -134,7 +129,7 @@ Feel free to contribute.
 * [Tolerance of Change and Uncertainty](#Tolerance-of-Change-and-Uncertainty)
 * [Trainable](#Trainable)
 
-[(Back to the contents)](#Contents)
+**[⬆ back to top](#Contents)
 
 ##### Teamwork Skills
 
@@ -157,7 +152,7 @@ Feel free to contribute.
 * [Self-Awareness](#Self-Awareness)
 * [Social Skills](#Social Skills)
 
-[(Back to the contents)](#Contents)
+**[⬆ back to top](#Contents)
 
 ##### Time Management Skills
 
@@ -183,4 +178,16 @@ Feel free to contribute.
 * [Time Awareness](#Time-Awareness)
 * [Work-Life Balance](#Work-Life-Balance)
 
-[(Back to the contents)](#Contents)
+**[⬆ back to top](#Contents)
+
+<!--end-->
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
